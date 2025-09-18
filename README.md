@@ -1,6 +1,6 @@
 ## Oi Oi 👋
 
-# 👨‍💻 Sobre mim
+# 👩‍💻 Sobre mim
 
 ```java
 import java.util.*;
