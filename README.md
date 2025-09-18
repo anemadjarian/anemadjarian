@@ -3,6 +3,7 @@
 # 👨‍💻 Sobre mim
 
 ```java
+import java.util.*;
 public class Desenvolvedora {
     private String nome = "Ane";
     private String area = "Ciência da Computação";
@@ -32,11 +33,19 @@ public class Desenvolvedora {
     }
 
     private void estudoAutonomo() {
-        System.out.println("🔧 Python, AWS, JavaScript");
+        System.out.println("🔧 Aprendendo por conta própria: Python, JavaScript, AWS");
+    }
+
+    private boolean bugEncontrado() {
+        return Math.random() < 0.5;
+    }
+
+    private void debugar() {
+        System.out.println("🐞 Bug encontrado! Iniciando o processo de debug...");
     }
 
     public static void main(String[] args) {
-        Desenvolvedor eu = new Desenvolvedor();
+        Desenvolvedora eu = new Desenvolvedora();
         eu.rotinaDiaria();
     }
 }
