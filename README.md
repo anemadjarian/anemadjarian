@@ -1,9 +1,9 @@
-## Hi there 👋
+## Oi Oi 👋
 
 # 👨‍💻 Sobre mim
 
 ```java
-public class Desenvolvedor {
+public class Desenvolvedora {
     private String nome = "Ane";
     private String area = "Ciência da Computação";
     private String linguagemFavorita = "Java";
