@@ -10,7 +10,7 @@ public class Desenvolvedor {
     private boolean viciadoEmCafe = true;
 
     public void rotinaDiaria() {
-        while (quebrandoCodigo) {
+        while (true) {
             estudar();
             programar();
             compilar();
