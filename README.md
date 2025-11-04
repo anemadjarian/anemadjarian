@@ -1,9 +1,16 @@
-# 👩‍💻 Sobre Mim
-- 👩 Nome: Ane Madjarian  
+# 👩‍💻 Ane Profissional  
+- 👩 Nome: Ane Madjarian Viana  
 - 🎓 Curso: Ciência da Computação - PUC Minas    
 - 🌍 Localização: Belo Horizonte, MG, Brasil  
 - 📧 Contato: madjarianviana@gmail.com  
-- 💼 LinkedIn: [Ane Madjarian](https://linkedin.com/in/anemadjarian)  
+- 💼 LinkedIn: [Ane Madjarian](https://linkedin.com/in/anemadjarian)
+
+# 🌼 Ane Pessoal  
+- 🌱 Idade: 18
+- 🤖 Hobby: Robótica
+- 🐶 Pets: Pitty (Cão)
+- 📺 Série Favorita: Cidade Invisível (Netflix)
+- ✈️ Viagem Favorita: Caldas Novas - GO
 
 # 🖥️ Projetos  
 ## 🍽️📍 LocalizeMe  
