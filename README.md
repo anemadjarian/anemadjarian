@@ -1,16 +1,9 @@
 # 👩‍💻 Sobre Mim
 - 👩 Nome: Ane Madjarian  
-- 🎓 Curso: Ciência da Computação (PUC Minas)    
+- 🎓 Curso: Ciência da Computação - PUC Minas    
 - 🌍 Localização: Belo Horizonte, MG, Brasil  
-- 💬 Idiomas: Português 🇧🇷, Inglês 🇺🇸  
 - 📧 Contato: madjarianviana@gmail.com  
-- 🐙 GitHub: [anemadjarian](https://github.com/anemadjarian)  
 - 💼 LinkedIn: [Ane Madjarian](https://linkedin.com/in/anemadjarian)  
-- 💻 Linguagens:  
-  ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 # 🖥️ Projetos  
 ## 🍽️📍 LocalizeMe  
