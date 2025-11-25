@@ -6,11 +6,9 @@
 - 💼 LinkedIn: [Ane Madjarian](https://linkedin.com/in/anemadjarian)
 
 # 🌼 Ane Pessoal  
-- 🌱 Idade: 18
-- 🤖 Hobby: Robótica
-- 🐶 Pets: Pitty (Cão)
-- 📺 Série Favorita: Cidade Invisível (Netflix)
-- ✈️ Viagem Favorita: Caldas Novas - GO
+- 🌱 Idade: 18  
+- 🤖 Hobby: Robótica  
+- 🐶 Pets: Pitty (Cão Labrador)  
 
 # 🖥️ Projetos  
 ## 🍽️📍 LocalizeMe  
