@@ -8,7 +8,7 @@
 # 🌼 Ane Pessoal  
 - 🌱 Idade: 18  
 - 🤖 Hobby: Robótica  
-- 🐶 Pets: Pitty (Cão Labrador)  
+- 🐶 Pet: Pitty (Cão Labrador)  
 
 # 🖥️ Projetos  
 ## 🍽️📍 LocalizeMe  
