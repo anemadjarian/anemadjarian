@@ -1,12 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=600&height=80&lines=Hello!+I+am+Ane;Bem-vinda+ao+meu+perfil!+💗" />
-
-</div>
-
-![Titulo](https://raw.githubusercontent.com/usuario/repositorio/main/arquivo.svg)
-
-
+![Rainbow](https://svg-banners.vercel.app/api?type=glitch&text1=Hello!%20I%20am%20Ane&width=800&height=200)
 
 # 🖥️ Projetos  
 ## 🍽️📍 LocalizeMe  
