@@ -1,8 +1,9 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello!+I+am+Ane;Seja+Bem-Vinda+ao+meu+GitHub!)
+<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=60&duration=3000&pause=800&color=FF4DFF&center=true&vCenter=true&width=600&height=120&lines=Hello!+I+am+Ane✨;Bem-vinda+ao+meu+perfil!💗" />
 
 </div>
+
 
 
 # 🖥️ Projetos  
