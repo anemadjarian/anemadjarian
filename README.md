@@ -1,4 +1,7 @@
-![Rainbow](https://svg-banners.vercel.app/api?type=glitch&text1=Hello!%20I%20am%20Ane&width=800&height=200)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/titulo.svg">
+</div>
+
 
 # 🖥️ Projetos  
 ## 🍽️📍 LocalizeMe  
