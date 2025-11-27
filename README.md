@@ -1,14 +1,9 @@
-# 👩‍💻 Ane Profissional  
-- 👩 Nome: Ane Madjarian Viana  
-- 🎓 Curso: Ciência da Computação - PUC Minas    
-- 🌍 Localização: Belo Horizonte, MG, Brasil  
-- 📧 Contato: madjarianviana@gmail.com  
-- 💼 LinkedIn: [Ane Madjarian](https://linkedin.com/in/anemadjarian)
+<div align="center">
 
-# 🌼 Ane Pessoal  
-- 🌱 Idade: 18  
-- 🤖 Hobby: Robótica  
-- 🐶 Pet: Pitty (Cão Labrador)  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello!+I+am+Ane;Seja+Bem-Vinda+ao+meu+GitHub!)
+
+</div>
+
 
 # 🖥️ Projetos  
 ## 🍽️📍 LocalizeMe  
