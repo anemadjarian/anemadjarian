@@ -1,22 +1,4 @@
-<svg width="100%" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <text x="50%" y="50%" font-size="60" fill="#ff00ff" text-anchor="middle" dy=".35em" filter="url(#glow)" font-family="Arial, sans-serif">
-    Hello! I am Ane ✨
-  </text>
-</svg>
-
-
+# Oii, meu nome é Ane Madjarian
 
 # 🖥️ Projetos  
 ## 🍽️📍 LocalizeMe  
