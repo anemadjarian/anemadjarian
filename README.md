@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=60&duration=3000&pause=800&color=FF4DFF&center=true&vCenter=true&width=600&height=120&lines=Hello!+I+am+Ane✨;Bem-vinda+ao+meu+perfil!💗" />
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo-images/neon-pink.svg" />
 
 </div>
+
 
 
 
