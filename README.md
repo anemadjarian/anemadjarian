@@ -9,14 +9,22 @@ class Ane {
 }
 ```
 
-
 ## 🌷 Linguagens
 <div align="center" style="display: inline_block; margin-top: 10px;"> 
 <img align="center" alt="HTML" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="JS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Java" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+<img align="center" alt="C" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="center" alt="C++" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>  
+
+## 🤍 Andamento do curso
+<div align="center">
+    
+[![Repositório](https://img.shields.io/badge/Computacao--PucMinas-ffb6d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anemadjarian/Computacao-PucMinas)
+
+</div>
 
 ## 💌 Entre em contato comigo  
 <div align="center">
