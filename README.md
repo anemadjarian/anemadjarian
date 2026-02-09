@@ -5,7 +5,7 @@ class Ane {
     String nome = "Ane Madjarian Viana";
     String curso = "Ciência da Computação";
     String universidade = "PUC Minas";
-    int periodo = 2;
+    int periodo = 3;
 }
 ```
 
