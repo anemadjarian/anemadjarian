@@ -17,7 +17,7 @@ class Ane {
 ## Andamento do curso
 <div align="center">
     
-[![Repositório](https://img.shields.io/badge/Computacao--PucMinas-ffb6d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anemadjarian/Computacao-PucMinas)
+[![Repositório](https://img.shields.io/badge/Ciencia-da-Computacao--PucMinas-ffb6d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anemadjarian/Computacao-PucMinas)
 
 </div>
 
