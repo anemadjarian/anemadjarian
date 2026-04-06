@@ -1,4 +1,4 @@
-# 🎀 Olá, bem-vindo ao meu GitHub!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#f09cec&width=435&lines=Oie,+bem+vindo+ao+meu+github)](https://git.io/typing-svg)
 
 ```java
 class Ane {
@@ -8,25 +8,14 @@ class Ane {
     int periodo = 3;
 }
 ```
-
-## 🌷 Linguagens
-<div align="center" style="display: inline_block; margin-top: 10px;"> 
-<img align="center" alt="HTML" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="JS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Java" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-<img align="center" alt="C" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img align="center" alt="C++" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</div>  
-
-## 🤍 Andamento do curso
+## Andamento do curso
 <div align="center">
     
 [![Repositório](https://img.shields.io/badge/Computacao--PucMinas-ffb6d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anemadjarian/Computacao-PucMinas)
 
 </div>
 
-## 💌 Entre em contato comigo  
+## Entre em contato comigo  
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb6d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anemadjarian/)
@@ -37,6 +26,6 @@ class Ane {
 ---
 <div align="center">
     
-✨ Obrigada por visitar meu perfil! ✨
+Obrigada por visitar meu perfil!
 
 </div>
