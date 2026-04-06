@@ -28,10 +28,3 @@ class Ane {
 [![Email](https://img.shields.io/badge/Gmail-ffb6d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madjarianviana@gmail.com)
 
 </div>
-
----
-<div align="center">
-    
-Obrigada por visitar meu perfil!
-
-</div>
