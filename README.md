@@ -1,4 +1,10 @@
-# Oie, bem-vindo ao meu GitHub!
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&size=24&center=true&vCenter=true&width=600&lines=oie,+seja+bem+vindo+ao+meu+github;confira+meus+projetos+🚀)
+
+</div>
+
+## Sobre mim
 
 ```java
 class Ane {
