@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#f09cec&width=435&lines=Oie,+bem+vindo+ao+meu+github)](https://git.io/typing-svg)
+(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#f09cec&width=435&lines=Oie,+bem+vindo+ao+meu+github)](https://git.io/typing-svg)
 
 ```java
 class Ane {
