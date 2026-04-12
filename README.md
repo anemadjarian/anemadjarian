@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB6D9&size=24&center=true&vCenter=true&width=600&lines=Oie,+seja+bem+vindo+ao+meu+github!;Confira+meus+projetos+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=CC75AF&size=24&center=true&vCenter=true&width=600&lines=Oie,+seja+bem+vindo+ao+meu+github!;Confira+meus+projetos+🚀)
 
 </div>
 
@@ -15,7 +15,7 @@ class Ane {
     String[] interesses = {"Engenharia de Software", "Product Ownership"};
 
     String paixao = "Torneio de Robótica";
-    String equipe = "STARBOTS";
+    String melhorEquipe = "STARBOTS";
     int anosCompetindo = 2;
 }
 ```
