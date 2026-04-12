@@ -29,7 +29,7 @@ class Ane {
 ## ✉️ Entre em contato comigo  
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb6d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anemadjarian/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CC75AF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anemadjarian/)
 [![Email](https://img.shields.io/badge/Gmail-ffb6d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madjarianviana@gmail.com)
 
 </div>
