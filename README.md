@@ -4,7 +4,7 @@
 
 </div>
 
-## Sobre mim
+## 🎀 Sobre mim
 
 ```java
 class Ane {
@@ -12,16 +12,21 @@ class Ane {
     String curso = "Ciência da Computação";
     String universidade = "PUC Minas";
     int periodo = 3;
+    String[] interesses = {"Engenharia de Software", "Product Ownership"};
+
+    String paixao = "Torneio de Robótica";
+    String equipe = "STARBOTS";
+    int anosCompetindo = 2;
 }
 ```
-## Andamento do curso
+## 🌷 Andamento do curso
 <div align="center">
     
 [![Repositório](https://img.shields.io/badge/CienciaComputacao--PucMinas-ffb6d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anemadjarian/Computacao-PucMinas)
 
 </div>
 
-## Entre em contato comigo  
+## ✉️ Entre em contato comigo  
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb6d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anemadjarian/)
