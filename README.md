@@ -17,6 +17,7 @@ class Ane {
     String paixao = "Torneio de Robótica";
     String melhorEquipe = "STARBOTS";
     int anosCompetindo = 2;
+    int anosVoluntariando = 4;
 }
 ```
 ## 🌷 Andamento do curso
