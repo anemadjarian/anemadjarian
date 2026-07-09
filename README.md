@@ -11,13 +11,8 @@ class Ane {
     String nome = "Ane Madjarian Viana";
     String curso = "Ciência da Computação";
     String universidade = "PUC Minas";
-    int periodo = 3;
-    String[] interesses = {"Engenharia de Software", "Product Ownership"};
-
-    String paixao = "Torneio de Robótica";
-    String melhorEquipe = "STARBOTS";
-    int anosCompetindo = 2;
-    int anosVoluntariando = 4;
+    int periodo = 4;
+    String[] paixoes = {"Programação Competitiva", "Empresa Júnior", "Robótica"};
 }
 ```
 ## 🌷 Andamento do curso
