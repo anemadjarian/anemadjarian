@@ -31,13 +31,6 @@ class Ane {
   <img src="https://github-readme-stats.vercel.app/api?username=anemadjarian&show_icons=true&theme=synthwave&title_color=CC75AF&icon_color=CC75AF&text_color=ffffff&bg_color=0d1117&border_color=CC75AF&hide_border=false" alt="Estatísticas do GitHub" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anemadjarian&layout=compact&theme=synthwave&title_color=CC75AF&text_color=ffffff&bg_color=0d1117&border_color=CC75AF&hide_border=false" alt="Linguagens mais usadas" height="170" />
 
-  <br/><br/>
-
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anemadjarian&theme=react-dark&color=CC75AF&line=CC75AF&point=ffffff&area=true&hide_border=false" alt="Gráfico de Atividade" width="100%" />
-
-  <br/><br/>
-
   <!-- Snake Game (Contribuições) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anemadjarian/anemadjarian/output/github-contribution-grid-snake-dark.svg">
