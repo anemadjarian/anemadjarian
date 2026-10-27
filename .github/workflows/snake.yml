@@ -21,7 +21,7 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Gera o jogo da cobrinha a partir do gráfico de contribuições do usuário
+      # Gera o jogo da cobrinha a partir do gráfico de contribuições
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
