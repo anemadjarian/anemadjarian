@@ -23,13 +23,7 @@ class Ane {
 
 </div>
 
-## 📊 Estatísticas
-
-<div align="center">
-
-  <!-- GitHub Readme Stats (Cards de Estatísticas e Linguagens) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anemadjarian&show_icons=true&theme=synthwave&title_color=CC75AF&icon_color=CC75AF&text_color=ffffff&bg_color=0d1117&border_color=CC75AF&hide_border=false" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anemadjarian&layout=compact&theme=synthwave&title_color=CC75AF&text_color=ffffff&bg_color=0d1117&border_color=CC75AF&hide_border=false" alt="Linguagens mais usadas" height="170" />
+## 👾 Snake Game
 
   <!-- Snake Game (Contribuições) -->
   <picture>
